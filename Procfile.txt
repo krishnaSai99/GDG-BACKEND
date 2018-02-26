@@ -1,1 +1,1 @@
-web: gdg.py
+web:  gunicorn gdg:app
